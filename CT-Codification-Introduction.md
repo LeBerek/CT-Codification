@@ -3,7 +3,9 @@
 ## Introduction
 
 In Poland we have almost 123 passenger and freight Railway Undertakings **(RU)**. In 2023 out of all freight RUs in Poland twenty-six of them executed intermodal transports. RUs run these transports on exceptional rules. The alternative to the currently binding rules is to introduce Combined Transport **(CT)** rules in Poland. CT is an intermodal transport governed by EU Directive and UIC CT rules, where a major part of the journey is made by rail, inland waterways or sea, and the initial and final legs carried out by road are as short as possible.
-##Poland - Current Status##
+
+## Poland - Current Status
+
 The Infrastructure Manager’s **(IM)** Instruction **Ir-10** Instructions on the carriage of exceptional consignments on 1435 mm track contains the term "Intermodal" occurs five times in the context of Intermodal Loading Units **(ILUs)** two definitions, consignment control protocol exemption and an additional provision for a template for an exceptional transport approval.
 
 For each one of the terms: "container", "swap body", "semi-trailer" we find one occurrence in the context of ILU definition. Similarly, term "articulated wagon" occurs once in the context of axels distance. Terms like pocket (wagon), profile, codification or codified, and hybrid (loading unit) do not appear in the manual.
@@ -20,23 +22,23 @@ Combined Transport Codification makes RUs and IMs operations simpler because its
 
 Recently, a number of new types of hybrid loading units have been appearing on the market, with enlarged sizes in relation to the ISO standard. For these hybrid units IM can also create and verify IM exceptional consignment Profiles conditions in addition to the combined transport profiles. For the time being, the manager has expressed no interest in simplifying the rules and is not open for a dialogue with RUS.
 
-## Understanding the Specifics of Codification in Combined Transport
+## Understanding The Specifics Of Codification In Combined Transport
 
 Codification in Combined Transport (CT) refers to a system used for the identification and presentation of information about various elements involved in the transport process. The codification system is crucial for efficient operations, documentation handling, involved elements control, and smooth communications in CT.
 
 Carriage in CT involves running of coded intermodal transport units (ITUs) on special carrier wagons in trains subject to an agreement; these trains have a maximum profile number and run on approved lines subject to a special examination by IMs. If just one of this three elements fails to be codified, then instead of CT we deal with the exceptional consignment transport regime.
 
-## Codification of railway lines
+## Codification Of Railway Lines
 
 IM determines the Combined Transport Profile (CTP) of a section of line. IM decides whether CTPs are calculated either based on the structure gauge proximity calculation or on the characteristics of exact position of the obstacles on the inspected section of line. When the codification is based on the physical position of obstacles, which in practice is beyond the calculated limits of the gauge, the physical position of obstacles is determined by field measurements. A line CTP consists of one or more letters followed by one or more numbers of 2 or 3 digits.
 
-## Codification of ILU
+## Codification Of ILU
 
 ILU is loading which is suitable for intermodal transport on road, rail and inland waterways or sea. It is a synonym of ITU (Intermodal Transport Unit) as defined in the “Glossary for transport statistics.” Most popular ILUs are Containers, Swap Bodies including some hybrid loading units. Semi-Trailers (vertical transhipment) and Roller Units horizontal handling are less commonly transported by rail.
 
 Containers and swap bodies are allocated a C code number describing a loading unit height module depending on their dimensions. Class 1 containers according to ISO 668 do not require a code number plate. They can be transported in CT on the basis of the dimensions code C in accordance with UIC Loading Guidelines Volume 2. Other containers and swap bodies require C code number and if these loading units have a code number plate, only information of this code number plate shall be considered. Roller bodies are allocated a B code number. Semi-Trailers are allocated a P code number.
 
-## Codification of freight wagons
+## Codification Of Freight Wagons
 
 Wagons dedicated for Cts and SB transport in CT are to be marked with a letter C as wagon compatibility code **(WWC)** or and eventually additional plate or a plate with correction number **(WCD)** (in accordance with bi-/multilateral agreements). Other types of wagons suitable for these loading units include flat wagons with spigots and flat wagons with wooden floors.
 Semitrailers, non-powered road vehicles which are transported by rail loaded on fixed-recess wagons (pocket wagons) are to be marked with P wagon compatibility code.
