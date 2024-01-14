@@ -8,9 +8,13 @@ In Poland we have almost 123 passenger and freight Railway Undertakings **(RU)**
 
 The Infrastructure Manager’s **(IM)** Instruction **Ir-10** Instructions on the carriage of exceptional consignments on 1435 mm track contains the term "Intermodal" occurs five times in the context of Intermodal Loading Units **(ILUs)** two definitions, consignment control protocol exemption and an additional provision for a template for an exceptional transport approval.
 
-For each one of the terms: "container", "swap body", "semi-trailer" we find one occurrence in the context of ILU definition. Similarly, term "articulated wagon" occurs once in the context of axels distance. Terms like pocket (wagon), profile, codification or codified, and hybrid (loading unit) do not appear in the manual.
+For each one of the terms: "container", "swap body"**(SB)**, "semi-trailer"**(ST)** we find one occurrence in the context of ILU definition. Similarly, term "articulated wagon" occurs once in the context of axels distance. Terms like pocket (wagon), profile, codification or codified, and hybrid (loading unit) do not appear in the instruction.
 
-My experience is that RUs and terminal operators as well as shippers need some information where it is clearly stated what is allowed and what is not allowed, depending on the 3 elements: of the rail transport, namely a wagon, an Intermodal Loading Unit (ILU) and an applied IMs path.
+My experience is that RUs and terminal operators as well as shippers need some information where it is clearly stated what is allowed, and what is not allowed, depending on the threee elements of the rail transport:
+
+1. a wagon,
+2. an ILU
+3. an approved IMs path.
 
 In May 2023 in the IM premises, during a meeting of Rail Council the topic of the need for railway codification in Poland in the context of railway digitalisation and simplified procedures is needed, was raised again. It was suggested and requested by representative of a RU: “Would it not make sense to form a working group on the topic of codification.” At present it is the case that each RU having the same ILU as another RU can report it to the IM with completely different critical points describing ILU. It is enough that in the application for carriage conditions, one carrier adds a lateral loading tolerance to the actual dimensions and other RU does not, even though they are handing over the same load, on the same wagon type. Months passed and the working group was not formed.
 
@@ -34,9 +38,9 @@ IM determines the Combined Transport Profile (CTP) of a section of line. IM deci
 
 ## Codification Of ILU
 
-ILU is loading which is suitable for intermodal transport on road, rail and inland waterways or sea. It is a synonym of ITU (Intermodal Transport Unit) as defined in the “Glossary for transport statistics.” Most popular ILUs are Containers, Swap Bodies including some hybrid loading units. Semi-Trailers (vertical transhipment) and Roller Units horizontal handling are less commonly transported by rail.
+ILU is loading which is suitable for intermodal transport on road, rail and inland waterways or sea. It is a synonym of ITU (Intermodal Transport Unit) as defined in the “Glossary for transport statistics.” Most popular ILUs are Containers,and Swap Bodies including some hybrid loading units. Semi-Trailers (vertical transhipment), and Roller Units horizontal handling are less commonly transported by rail.
 
-Containers and swap bodies are allocated a C code number describing a loading unit height module depending on their dimensions. Class 1 containers according to ISO 668 do not require a code number plate. They can be transported in CT on the basis of the dimensions code C in accordance with UIC Loading Guidelines Volume 2. Other containers and swap bodies require C code number and if these loading units have a code number plate, only information of this code number plate shall be considered. Roller bodies are allocated a B code number. Semi-Trailers are allocated a P code number.
+Containers and SB are allocated a C code number describing a loading unit height module depending on their dimensions. Class 1 containers according to ISO 668 do not require a code number plate. They can be transported in CT on the basis of the dimensions code C in accordance with UIC Loading Guidelines Volume 2. Other containers and swap bodies require C code number and if these loading units have a code number plate, only information of this code number plate shall be considered. Roller bodies are allocated a B code number. Semi-Trailers are allocated a P code number.
 
 ## Codification Of Freight Wagons
 
