@@ -46,20 +46,22 @@ Cts and SB are allocated a C code number describing a loading unit height module
 
 ## Codification Of Freight Wagons
 
-Wagons dedicated for Cts and SB transport in CT are to be marked with a letter C as wagon compatibility code **(WWC)** or and eventually additional plate or a plate with correction number **(WCD)** (in accordance with bi-/multilateral agreements). Other types of wagons suitable for these loading units include flat wagons with spigots and flat wagons with wooden floors.
-Semitrailers, non-powered road vehicles which are transported by rail loaded on fixed-recess wagons (pocket wagons) are to be marked with P wagon compatibility code.
+Wagons dedicated for Ct and SB transport in CT are to be marked with a letter C as wagon compatibility code **(WWC)** or and eventually additional plate or a plate with correction number **(WCD)** (as stated in bi-/multilateral agreements grid). Other types of wagons suitable for these loading units include flat wagons with spigots and flat wagons with wooden floors. STs, non-powered road vehicles transported by rail, loaded on fixed-recess wagons (pocket wagons) are to be marked with a P wagon compatibility code.
 
 ## Technical Number
 
-The technical number is attributed to an ILU. It is a combination of the wagon compatibility code (WCC) and the Combined Transport Profile number (CTP no.) (e.g. **C45**, **P400**)
+The **technical number** **(TN)**is attributed to an ILU. It is a combination of the wagon compatibility code (WCC) and the Combined Transport Profile number (CTP no.) (e.g. **C45**, **P400**)
 
 ## CT Train Operational Rules
 
-Each RU is obliged to run route compatibility check in line with TSI OPE Appendix D1.
-The compatibility check includes control and comparison of:
+Each RU is obliged to run route compatibility checkm as specified in TSI OPE Appendix D1.
 
-The (CT code) of the loaded freight wagon which is results from the combination of the Technical Number of the ILU and, for the freight wagon, of the Wagon Compatibility Code and Wagon Correction Digit where necessary, and the Combined Transport Profile of the line on the other side.
+The compatibility check includes control and comparison of The **CT code** of the loaded freight wagon which is results from the combination of the:
+
+- loading unit - TN of the ILU,
+- freight wagon - WCC and WCD (where necessary),
+- path - CTP of the line.
 
 ### Summary
 
-The above-mentioned elements of the Combined Transport are rough approximations of this complex industry concept. A more detailed look at the principles of CT goes beyond the purpose of this article. It is possible that the topic will be pursued further in future dissertations.
+The above-mentioned elements of the Combined Transport are rough approximations of this complex concept ub Europe. A more detailed insight into the principles of CT is beyond the purpose of this article. The topic may be pursued further in future dissertations.
