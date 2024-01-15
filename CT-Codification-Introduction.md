@@ -1,26 +1,28 @@
 # Railway Lines Codification in Poland – Mission Impossible
 
-## Introduction
+### Introduction
 
-In Poland we have almost 123 passenger and freight Railway Undertakings **(RU)**. In 2023 out of all freight RUs in Poland twenty-six of them executed intermodal transports. RUs run these transports on exceptional rules. The alternative to the currently binding rules is to introduce Combined Transport **(CT)** rules in Poland. CT is an intermodal transport governed by EU Directive and UIC CT rules, where a major part of the journey is made by rail, inland waterways or sea, and the initial and final legs carried out by road are as short as possible.
+In Poland we have almost 123 passenger and freight Railway Undertakings **(RU)**. In 2023 out of all freight RUs in Poland twenty-six of them executed intermodal transports on national Infrastructure Manager's **(IM)** network. RUs run these transports on exceptional rules. The alternative to the currently binding rules is to introduce Combined Transport **(CT)** rules in Poland. CT is an intermodal transport governed by EU Directive and UIC CT rules, where a major part of the journey is made by rail, inland waterways or sea, and the initial and final legs carried out by road are as short as possible.
 
 ## Poland - Current Status
 
-The Infrastructure Manager’s **(IM)** Instruction **Ir-10** Instructions on the carriage of exceptional consignments on 1435 mm track contains the term "Intermodal" occurs five times in the context of Intermodal Loading Units **(ILUs)** two definitions, consignment control protocol exemption and an additional provision for a template for an exceptional transport approval.
+The IM's Instruction **Ir-10** "Instructions on the carriage of exceptional consignments on 1435 mm track" contains the term : <br>
 
-For each one of the terms: "container", "swap body"**(SB)**, "semi-trailer"**(ST)** we find one occurrence in the context of ILU definition. Similarly, term "articulated wagon" occurs once in the context of axels distance. Terms like pocket (wagon), profile, codification or codified, and hybrid (loading unit) do not appear in the instruction.
+- **Intermodal** occurs five times. Twice in the two definions, in the context of Intermodal Loading Units **(ILUs)**, and once in consignment control protocol exemption and in an additional provision for a template for an exceptional transport approval.
 
-My experience is that RUs and terminal operators as well as shippers need some information where it is clearly stated what is allowed, and what is not allowed, depending on the threee elements of the rail transport:
+For each one of the terms: **container** **(Cts)**, **swap body** **(SB)**, **semi-trailer** **(ST)** we find one occurrence in the context of ILU definition. Similarly, the term "articulated wagon" occurs once in the context of axels distance. Terms like **pocketwagon**, **profile**, **codification** or **codified**, and **hybrid** (loading unit) do not appear in the Ir-10 instruction.
+
+My experience is that RUs and terminal operators as well as shippers need some information where it is clearly stated what is allowed, and what is not allowed, depending on the three elements of the rail transport :
 
 1. a wagon,
-2. an ILU
+2. an ILU,
 3. an approved IMs path.
 
-In May 2023 in the IM premises, during a meeting of Rail Council the topic of the need for railway codification in Poland in the context of railway digitalisation and simplified procedures is needed, was raised again. It was suggested and requested by representative of a RU: “Would it not make sense to form a working group on the topic of codification.” At present it is the case that each RU having the same ILU as another RU can report it to the IM with completely different critical points describing ILU. It is enough that in the application for carriage conditions, one carrier adds a lateral loading tolerance to the actual dimensions and other RU does not, even though they are handing over the same load, on the same wagon type. Months passed and the working group was not formed.
+In May 2023 in the IM premises, during a meeting of the Rail Council the topic of the need for railway codification in Poland in the context of railway digitalisation and simplified procedures is needed, was raised again. It was suggested and requested by representative of a RU: “Would it not make sense to form a working group on the topic of codification.” At present it is the case that each RU having the same ILU as another RU can report it to the IM with completely different critical points describing ILU. It is enough that in the application for carriage conditions, one carrier adds a lateral loading tolerance to the actual dimensions and the other RU does not, even though they are handing over the same load, on the same wagon type. Months passed and the working group was not formed.
 
 ## European Industry Standard
 
-Virtually most of the European Union has the codification of railway gauges implemented, whereas Polish IMs network does not. RUs still must apply for exceptional permission to run intermodal trains, under conditions that are not specified in some commonly available decision or a guideline. IM’s Railway lines are constantly being examined for the conditions of carriage on paths requested by RUs. Each RU receives permits for requested paths. These permits have various numbers and defined validity. Two types of permits are available. One permit type serves for the “standard” transport units network permit. The other type is applied for an individual path proving requests for “non-standard” units. In IM instruction it is not specified which transportation units are “standard” and “nonstandard.”
+Virtually most of the European Union has the codification of railway gauges implemented, but the Polish national IMs is not codified. RUs still must apply for exceptional permission to run intermodal trains, under conditions not specified in some commonly available decision or a guideline. IM’s Railway lines are constantly being examined for the conditions of carriage on paths requested by RUs. Each RU receives permits for requested paths. These permits have various numbers and defined validity. Two types of permits are available. One network permit type serves for the loading units with standard sizes of loading units. The other type is applied for an individual path proving requests for non-standard units. In IM's instruction it is not specified which transportation units have standard and non-standard sizes.
 
 Combined Transport Codification makes RUs and IMs operations simpler because its rules differ from these applied for the exceptional transports. Only non-codified ITUs are to be examined and approved under the current exceptional transport rules.
 
@@ -58,6 +60,6 @@ The compatibility check includes control and comparison of:
 
 The (CT code) of the loaded freight wagon which is results from the combination of the Technical Number of the ILU and, for the freight wagon, of the Wagon Compatibility Code and Wagon Correction Digit where necessary, and the Combined Transport Profile of the line on the other side.
 
-## Summary
+### Summary
 
 The above-mentioned elements of the Combined Transport are rough approximations of this complex industry concept. A more detailed look at the principles of CT goes beyond the purpose of this article. It is possible that the topic will be pursued further in future dissertations.
