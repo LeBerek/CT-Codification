@@ -10,7 +10,7 @@ The IM's Instruction **Ir-10** "Instructions on the carriage of exceptional cons
 
 - **Intermodal** occurs five times. Twice in the two definions, in the context of Intermodal Loading Units **(ILUs)**, and once in consignment control protocol exemption and in an additional provision for a template for an exceptional transport approval.
 
-For each one of the terms: **container** **(Cts)**, **swap body** **(SB)**, **semi-trailer** **(ST)** we find one occurrence in the context of ILU definition. Similarly, the term "articulated wagon" occurs once in the context of axels distance. Terms like **pocketwagon**, **profile**, **codification** or **codified**, and **hybrid** (loading unit) do not appear in the Ir-10 instruction.
+For each one of the terms: **container** **(Ct)**, **swap body** **(SB)**, **semi-trailer** **(ST)** we find one occurrence in the context of ILU definition. Similarly, the term "articulated wagon" occurs once in the context of axels distance. Terms like **pocketwagon**, **profile**, **codification** or **codified**, and **hybrid** (loading unit) do not appear in the Ir-10 instruction.
 
 My experience is that RUs and terminal operators as well as shippers need some information where it is clearly stated what is allowed, and what is not allowed, depending on the three elements of the rail transport :
 
@@ -24,25 +24,25 @@ In May 2023 in the IM premises, during a meeting of the Rail Council the topic o
 
 Virtually most of the European Union has the codification of railway gauges implemented, but the Polish national IMs is not codified. RUs still must apply for exceptional permission to run intermodal trains, under conditions not specified in some commonly available decision or a guideline. IM’s Railway lines are constantly being examined for the conditions of carriage on paths requested by RUs. Each RU receives permits for requested paths. These permits have various numbers and defined validity. Two types of permits are available. One network permit type serves for the loading units with standard sizes of loading units. The other type is applied for an individual path proving requests for non-standard units. In IM's instruction it is not specified which transportation units have standard and non-standard sizes.
 
-Combined Transport Codification makes RUs and IMs operations simpler because its rules differ from these applied for the exceptional transports. Only non-codified ITUs are to be examined and approved under the current exceptional transport rules.
+CT codification makes RUs and IMs operations simpler because its rules differ from those applied for exceptional transports **(ET)**. Only non-codified ITUs are to be examined and approved under the current exceptional transport rules.
 
-Recently, a number of new types of hybrid loading units have been appearing on the market, with enlarged sizes in relation to the ISO standard. For these hybrid units IM can also create and verify IM exceptional consignment Profiles conditions in addition to the combined transport profiles. For the time being, the manager has expressed no interest in simplifying the rules and is not open for a dialogue with RUS.
+Recently, some new types of hybrid loading units appeared on the market, with relatively enlarged sizes in relation to the ISO standard sizes. For these hybrid units, IM can create simplified and unified rules for carriage. In addition to the CT Paths Profiles, IM can create and examine conditions for exceptional consignment **(EC)** profiles. Currently, the national IM expressed no interest in simplifying the rules and is closed to open cooperationa with RUS.
 
 ## Understanding The Specifics Of Codification In Combined Transport
 
-Codification in Combined Transport (CT) refers to a system used for the identification and presentation of information about various elements involved in the transport process. The codification system is crucial for efficient operations, documentation handling, involved elements control, and smooth communications in CT.
+Codification in CT refers to a system used for the identification and presentation of information about various elements involved in the transport process. The codification system is crucial for efficient operations, documentation handling, involved elements control, and smooth communications in CT.
 
-Carriage in CT involves running of coded intermodal transport units (ITUs) on special carrier wagons in trains subject to an agreement; these trains have a maximum profile number and run on approved lines subject to a special examination by IMs. If just one of this three elements fails to be codified, then instead of CT we deal with the exceptional consignment transport regime.
+Carriage in CT involves running of coded **intermodal transport units** **(ITUs)** on special carrier wagons in trains subject to an agreement. These trains have a maximum profile number and run on approved lines subject to a special examination by IMs. If just one of these three elements has no codification, then instead of CT we deal with the exceptional consignment transport regime.
 
 ## Codification Of Railway Lines
 
-IM determines the Combined Transport Profile (CTP) of a section of line. IM decides whether CTPs are calculated either based on the structure gauge proximity calculation or on the characteristics of exact position of the obstacles on the inspected section of line. When the codification is based on the physical position of obstacles, which in practice is beyond the calculated limits of the gauge, the physical position of obstacles is determined by field measurements. A line CTP consists of one or more letters followed by one or more numbers of 2 or 3 digits.
+IM determines the **combined transport profile** **(CTP)** of a section of line. IM decides whether CTPs are calculated either based on the structure gauge proximity calculation or on the characteristics of exact position of the obstacles on the inspected section of line. When the codification is based on the physical position of obstacles, which in practice is beyond the calculated limits of the gauge, the physical position of obstacles is determined by field measurements. A line CTP consists of one or more letters followed by one or more numbers of 2 or 3 digits.
 
 ## Codification Of ILU
 
-ILU is loading which is suitable for intermodal transport on road, rail and inland waterways or sea. It is a synonym of ITU (Intermodal Transport Unit) as defined in the “Glossary for transport statistics.” Most popular ILUs are Containers,and Swap Bodies including some hybrid loading units. Semi-Trailers (vertical transhipment), and Roller Units horizontal handling are less commonly transported by rail.
+ILU is loading which is suitable for intermodal transport on road, rail and inland waterways or sea. It is a synonym of ITU as defined in the “Glossary for transport statistics.” Containers **(Cts)** are the most popular ILUs. Swap bodies **(SB)**, including some hybrid loading units are less common. Semi-trailers **(ST)** (for vertical transhipment), and roller units (for horizontal handling) require specialised wagons and are also less commonly transported by rail.
 
-Containers and SB are allocated a C code number describing a loading unit height module depending on their dimensions. Class 1 containers according to ISO 668 do not require a code number plate. They can be transported in CT on the basis of the dimensions code C in accordance with UIC Loading Guidelines Volume 2. Other containers and swap bodies require C code number and if these loading units have a code number plate, only information of this code number plate shall be considered. Roller bodies are allocated a B code number. Semi-Trailers are allocated a P code number.
+Cts and SB are allocated a C code number describing a loading unit height module depending on their dimensions. Class 1 Cts according to ISO 668 do not require a code number plate. They can be transported in CT on the basis of the dimensions code C as described in UIC Loading Guidelines, Volume 2. Other Cts and SBs require a C code number and if these loading units have a code number plate, only information of this code number plate shall be considered. Roller bodies are allocated a B code number. STs are allocated a P code number.
 
 ## Codification Of Freight Wagons
 
