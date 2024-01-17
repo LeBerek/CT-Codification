@@ -77,20 +77,20 @@ The above-mentioned elements of the CT are rough approximations of the complex t
 
 ### Abbreviations :
 
-EU European Union
-CT Combined Transport
-Ct Container
-CTP Combined Transport Profile
-EC Exceptional Consignment
-ET Exceptional Transport
-ILU Intermodal Loading Unit
-IM Infrastucture Manager
-ITU Intermodal Transport Unit
-RU Railway Undertaking
-SB Swap Body
-ST Semi-Trailer
-TN Technical Number
-TSI OPE Technical specifications for interoperability (TSI) for Operation and Traffic Management (OPE) subsystem
-UIC Union Internationale des Chemins de fer (EN International Union of Railways)
-WCC Wagon Compatibility Code
-WCD Wagon Correction Digit
+**EU** European Union <br>
+**CT** Combined Transport <br>
+**Ct** Container <br>
+**CTP** Combined Transport Profile <br>
+**EC** Exceptional Consignment <br>
+**ET** Exceptional Transport <br>
+**ILU** Intermodal Loading Unit <br>
+**IM** Infrastucture Manager <br>
+**ITU** Intermodal Transport Unit <br>
+**RU** Railway Undertaking <br>
+**SB** Swap Body <br>
+**ST** Semi-Trailer <br>
+**TN** Technical Number <br>
+**TSI** OPE Technical specifications for interoperability (TSI) for Operation and Traffic Management (OPE) subsystem <br>
+**UIC** Union Internationale des Chemins de fer (EN International Union of Railways) <br>
+**WCC** Wagon Compatibility Code <br>
+**WCD** Wagon Correction Digit <br>
