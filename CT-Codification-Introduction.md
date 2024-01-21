@@ -7,10 +7,9 @@ In Poland we have round 100 freight Railway Undertakings **(RU)** with active li
 ## Poland - Current Status
 
 Rules for loading units which encroach loading gauge are set in the national IM's <br>
-**Ir-10** "Instructions on the carriage of exceptional consignments on 1435 mm track" **(Ir-10 Instruction)**.
+**Ir-10** ["Instructions on the carriage of exceptional consignments on 1435 mm track"](https://www.plk-sa.pl/files/public/user_upload/pdf/Akty_prawne_i_przepisy/Instrukcje/Wydruk/Ir/Ir-10_instrukcja_o_przewozie_przesylek_nadzwyczajnych_po_torze_1435_mm.pdf "Ir-10 Instruction") **(Ir-10 Instruction)**.
 
-My experience is that RUs and terminal operators as well as shippers need information where it is clearly stated what is allowed and what is not allowed.
-More information is needed for these three elements of the rail transport :
+My experience is that RUs and terminal operators as well as shippers need clear statement what is allowed and what is not allowed. More information is needed for these three elements of the rail transport :
 
 1. a wagon,
 2. a loading unit,
@@ -47,7 +46,12 @@ Carriage in CT involves running of coded **intermodal transport units** **(ITUs)
 
 ## Codification Of Railway Lines
 
-IM determines the **combined transport profile** **(CTP)** of a section of line. IM decides if CTPs are calculated either based on the structure gauge proximity calculation or on the characteristics of exact position of the obstacles on the inspected section of line. When the codification is based on the physical position of obstacles, which in practice is beyond the calculated limits of the gauge, the physical position of obstacles is determined by field measurements. A line CTP consists of one or more letters followed by one or more numbers of 2 or 3 digits.
+IM determines the **combined transport profile** **(CTP)** of a section of line. IM decides how CTPs are calculated whether calculation is based on :
+
+- the structure gauge proximity determined by reference profiles and associated rules,
+- the characteristics of exact position of the obstacles on the inspected section of line determined by field measurements (space method).
+
+An allocated line CTP consists of one or more letters followed by one or more numbers of 2 or 3 digits.
 
 ## Codification Of ILU
 
@@ -57,7 +61,13 @@ Cts and SB are allocated a C code number describing a loading unit height module
 
 ## Codification Of Freight Wagons
 
-Wagons dedicated for Ct and SB transport in CT must be marked with a letter C as wagon compatibility code **(WWC)**. Some wagons due to their geometrical characteristics hold an additional plate or a plate with correction number **(WCD)**. Additional plates and WCC refer to bi-/multilateral agreements listed in grid. Other types of wagons suitable for these loading units include flat wagons with spigots and flat wagons with wooden floors. STs, non-powered road vehicles transported by rail, loaded on fixed-recess wagons (pocket wagons) must be marked with a letter P wagon compatibility code.
+- Wagons intended for ILU tranportation must be marked with wagon compatibility code **(WWC)**,
+- allocation of WCC takes place during the authorisation of freight wagon on request of an applicant,
+- some wagons due to their geometrical characteristics hold an additional plate or a plate with correction number **(WCD)**,
+- additional plates and WCC refer to bi-/multilateral agreements listed in grid,
+- wagons dedicated for Ct and SB transport in CT must be marked with a letter C as WCC,
+- other types of wagons suitable for these loading units include flat wagons with spigots and flat wagons with wooden floors,
+- STs, non-powered road vehicles transported by rail, loaded on fixed-recess wagons (pocket wagons) must be marked with a letter P as WCC.
 
 ## Technical Number
 
@@ -94,3 +104,5 @@ The above-mentioned elements of the CT are rough approximations of the complex t
 **UIC** Union Internationale des Chemins de fer (EN International Union of Railways) <br>
 **WCC** Wagon Compatibility Code <br>
 **WCD** Wagon Correction Digit <br>
+
+[def]: https://www.plk-sa.pl/files/public/user_upload/pdf/Akty_prawne_i_przepisy/Instrukcje/Wydruk/Ir/Ir-10_instrukcja_o_przewozie_przesylek_nadzwyczajnych_po_torze_1435_mm.pdf
