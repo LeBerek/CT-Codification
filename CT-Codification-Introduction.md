@@ -104,5 +104,3 @@ The above-mentioned elements of the CT are rough approximations of the complex t
 **UIC** Union Internationale des Chemins de fer (EN International Union of Railways) <br>
 **WCC** Wagon Compatibility Code <br>
 **WCD** Wagon Correction Digit <br>
-
-[def]: https://www.plk-sa.pl/files/public/user_upload/pdf/Akty_prawne_i_przepisy/Instrukcje/Wydruk/Ir/Ir-10_instrukcja_o_przewozie_przesylek_nadzwyczajnych_po_torze_1435_mm.pdf
